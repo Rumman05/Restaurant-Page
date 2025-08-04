@@ -6,8 +6,6 @@ A modern, responsive coffee shop website built with vanilla JavaScript, HTML, an
 
 🌐 **[View Live Site]([https://yourusername.github.io/repository-name](https://rumman05.github.io/Restaurant-Page/))**
 
-*Replace with your actual GitHub Pages URL*
-
 ## Features
 
 - **Single Page Application (SPA)** - Dynamic tab-based navigation
