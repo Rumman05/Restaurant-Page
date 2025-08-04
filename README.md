@@ -4,7 +4,7 @@ A modern, responsive coffee shop website built with vanilla JavaScript, HTML, an
 
 ## Live Demo
 
-🌐 **[View Live Site]([https://yourusername.github.io/repository-name](https://rumman05.github.io/Restaurant-Page/))**
+🌐 **[View Live Site](https://rumman05.github.io/Restaurant-Page/)**
 
 ## Features
 
